@@ -28,7 +28,7 @@ We welcome contributors and community members! Here's how you can get involved:
 
 ## Community Guidelines
 
-Please review our [Community Guidelines](link-to-community-guidelines) to understand how we collaborate and communicate within the community.
+Please review our [Community Guidelines](https://github.com/MelonCTech/.github/blob/master/Community%20Guidelines.md) to understand how we collaborate and communicate within the community.
 
 ## Connect with Us
 
@@ -36,13 +36,13 @@ Please review our [Community Guidelines](link-to-community-guidelines) to unders
 
 ## Code of Conduct
 
-Please read and adhere to our [Code of Conduct](link-to-code-of-conduct) to maintain a positive and inclusive community.
+Please read and adhere to our [Code of Conduct](https://github.com/MelonCTech/.github/blob/master/Code%20of%20Conduct.md) to maintain a positive and inclusive community.
 
 ## Contributors
 
-We appreciate the contributions of all our community members. See the [list of contributors](link-to-contributors) who have helped make this organization thrive.
+We appreciate the contributions of all our community members. See the [list of contributors](https://github.com/MelonCTech/.github/blob/master/Contributors.md) who have helped make this organization thrive.
 
 ## License
 
-All projects under Melon are licensed under the [ BSD-3-Clause license](https://github.com/MelonCTech/Meproc/blob/master/LICENSE).
+All projects under Melon are licensed under the [ BSD-3-Clause license](https://github.com/MelonCTech/.github/blob/master/LICENSE).
 
